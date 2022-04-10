@@ -86,11 +86,7 @@ Our goal is to study the engineering
 \begin_inset Formula $\hat{z}$
 \end_inset
 
--direction while the lattice itself spans the 
-\begin_inset Formula $xy-$
-\end_inset
-
- plane.
+-direction while the lattice itself spans the $xy$ plane.
  The tight-binding Hamiltonian reads
 \end_layout
 
@@ -98,6 +94,10 @@ Our goal is to study the engineering
 \begin_inset Formula $H=-t\sum_{\langle ij\rangle}c_{i}^{\dagger}c_{j}e^{iA_{ij}}$
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
