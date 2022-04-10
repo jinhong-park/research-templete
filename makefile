@@ -1,5 +1,5 @@
 upload:
-	eval `ssh-agent`; ssh-add ~/.ssh/id_rsa; git add .;git commit -m “update”;git push origin master; 
+	git add .;git commit -m “update”;git push
 
 pull:
-	git pull origin master
+	git pull
