@@ -1,1 +1,0 @@
-print("Hello {{ cookiecutter.hello_word }}")
